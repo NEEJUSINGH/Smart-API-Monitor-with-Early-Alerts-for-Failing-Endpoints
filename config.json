@@ -1,0 +1,15 @@
+{
+  "endpoints": [
+    "https://httpstat.us/200",
+    "https://httpstat.us/500",
+    "https://httpbin.org/delay/10"
+  ],
+  "email": {
+    "sender": "youremail@example.com",
+    "receiver": "alertrecipient@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "port": 587
+  },
+  "alert_threshold": 3,
+  "check_interval": 60
+}
