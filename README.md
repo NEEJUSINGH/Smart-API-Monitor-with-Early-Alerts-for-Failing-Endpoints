@@ -5,10 +5,13 @@ This project is a lightweight Python-based monitoring tool designed to detect fa
 The monitor runs on a configurable schedule, checks multiple endpoints for availability, response time, and error codes (like 4xx/5xx), and sends a clear, human-readable email alert when an issue is detected. It also tracks repeated failures and escalates when necessary.
 
 ---
-
 ### Why I Built This
 
-In environments where APIs connect critical systems—ads platforms, CRMs, student portals, or payment systems—failures often go unnoticed until users complain. I wanted to build something that gives support engineers or clients a heads-up before issues become outages. This project allowed me to combine scripting, error handling, communication logic, and automation into one tool that quietly makes things better behind the scenes.
+In environments where APIs connect critical systems—ads platforms, CRMs, student portals, or payment systems—failures often go unnoticed until users complain. I wanted to build something that gives the developers or clients an early heads-up before issues become outages.
+
+This project helped me explore how scalable alerting systems can be designed for real-world, client-facing environments. I focused on building something simple yet practical to simulate how API health impacts user experience and service operations.
+
+It also gave me a chance to apply and deepen my skills in scripting, error detection, email automation, and clear communication—core strengths I hope to bring into future customer engineering roles.
 
 ---
 
