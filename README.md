@@ -1,3 +1,7 @@
+### Try It Online
+You can test this project in the browser via Replit: [Run on Replit](https://replit.com/@singhne1/smart-api-monitor)
+
+
 # Smart API Monitor with Early Alerts for Failing Endpoints
 
 This project is a lightweight Python-based monitoring tool designed to detect failing or unstable API endpoints and proactively notify the support team via email. It simulates a real-world need: when a client-facing API fails silently, it can lead to broken workflows, frustrated users, and delayed fixes.
